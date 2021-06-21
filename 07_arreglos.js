@@ -74,5 +74,10 @@ var numerosDesordenados = [ 3, 9, 8, 7, 6, 2, 3, 6, 9]
 
 */
 numerosDesordenados.push(1012);
-console.log(numerosDesordenados);
-// consultar funciones de modifican arrlegos
+// console.log(numerosDesordenados);
+
+
+var pares = [2, 4, 6, 8, 10 ]
+console.log(pares.map((elemento)=> elemento+1));
+
+// consultar funciones arrlegos
